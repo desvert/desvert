@@ -1,6 +1,6 @@
 # Hi, I'm Nick 👋
 
-I'm a Linux-focused technologist transitioning into systems administration and cybersecurity, with particular interest in infrastructure automation and operational technology (OT/ICS) environments. My background in trade work and emergency services shapes how I think about reliability, safety, and real-world systems.
+I'm Linux-focused and working toward roles in systems administration and cybersecurity, especially in infrastructure automation and OT/ICS environments. Coming from trade work and emergency services, I tend to think in terms of reliability, safety, and systems that need to function under real-world conditions.
 
 ---
 
@@ -19,6 +19,13 @@ I'm a Linux-focused technologist transitioning into systems administration and c
 Production-style Minecraft Bedrock server deployment using Docker Compose. Features persistent storage, automated backups, gamerule enforcement, and resilient restart behavior.
 
 *Focus: Linux administration, container lifecycle management, automation*
+
+### 🌡️ OT HVAC Testbed
+
+**[`ot-hvac-testbed`](https://github.com/desvert/ot-hvac-testbed)**
+Microcontroller-driven HVAC control and instrumentation testbed used to explore real-world operational technology concepts. The project incorporates sensor telemetry, actuator control, serial data logging, and basic control logic across multiple platforms, with an emphasis on observability, safety, and failure-aware design.
+
+*Focus: OT/ICS fundamentals, embedded systems, Linux-based data logging, system reliability*
 
 ---
 
