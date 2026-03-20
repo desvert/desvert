@@ -16,7 +16,7 @@ I'm a commercial HVAC technician finishing a BS in Cybersecurity Technology, ope
 ## Selected Projects
 
 ### 🔬 otparse
-**[`otparse`](https://github.com/desvert/otparse)**
+**[`otparse`](https://github.com/desvert/otparse-mcp)**
 A containerized MCP server that parses Modbus/TCP and BACnet/IP packet captures using tshark and returns structured JSON for LLM-assisted analysis. Built to support OT/ICS traffic triage workflows.
 
 *Focus: OT/ICS protocols, packet analysis, MCP tooling, Python*
